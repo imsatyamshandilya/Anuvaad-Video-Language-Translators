@@ -40,5 +40,3 @@ The Anuvaad Video Language Translator can be utilized in various sectors, includ
 The Anuvaad Video Language Translator represents a significant step towards making video content more inclusive and accessible. By combining cutting-edge technology in speech recognition and translation, this tool empowers users to break language barriers and connect with a broader audience.
 
 ---
-
-Feel free to modify any part of the description to better fit your project’s goals or focus areas! Let me know if you need any additional information or sections.
