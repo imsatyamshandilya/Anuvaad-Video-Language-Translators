@@ -1,7 +1,4 @@
 # Anuvaad-Video-Language-Translators
-
-Here’s a description of the Anuvaad Video Language Translator project:
-
 ---
 
 ## Anuvaad Video Language Translator
